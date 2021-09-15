@@ -26,7 +26,9 @@ h1 {
     text-align: center; 
     text-transform: uppercase;
 }
-.week {text-align: center; font-size: 1.2rem; margin-top: -10px;}
+.week {text-align: center; font-size: 1.2rem; margin-top: -10px; }
+.week a {color: black;}
+.week a:hover {opacity: .7;}
 
 h5 {padding: 10px 0px 0px 10px; margin-bottom: -5px; font-size: small;}
 
@@ -45,13 +47,16 @@ h5 {padding: 10px 0px 0px 10px; margin-bottom: -5px; font-size: small;}
 .team-info {padding: 10px; line-height: normal; margin-bottom: 10px;}
 
 .team-img {float: left; width: 120px; height: 100px; object-fit: cover; object-position: center; background: white; margin-right: 15px;}
+.img-top { object-position: top;}
 .team-name { font-size: 24px; font-weight: 700;}
 .record { font-size: 18px; font-weight: 400; font-style: italic;}
 
 .write-up {padding: 0px 15px 0px 15px; font-size: 20px;}
 .writeUp-img {max-width: 350px; width: 100%; clear: both;}
 
-
+footer { background: #F4F5F5; height: 60px; padding-top: 10px;}
+footer a { text-align: center;  font-size: 1.2rem; color: black; text-decoration: none;} 
+footer a:hover {color: black; opacity: .7;}
 
 
 
