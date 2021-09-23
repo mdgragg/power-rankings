@@ -38,6 +38,8 @@ h5 {padding: 10px 0px 0px 10px; margin-bottom: -5px; font-size: small;}
     position: relative; 
     margin: 50px 0px; 
     background: #F4F5F5; 
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px 2px lightgrey;
 }
 .same {  border-bottom: 3px solid #10153E;}
 .up {  border-bottom: 3px solid #25AF4B;}
@@ -54,7 +56,7 @@ h5 {padding: 10px 0px 0px 10px; margin-bottom: -5px; font-size: small;}
 .write-up {padding: 0px 15px 0px 15px; font-size: 20px;}
 .writeUp-img {max-width: 350px; width: 100%; clear: both;}
 
-footer { background: #F4F5F5; height: 60px; padding-top: 10px;}
+footer { background: #F4F5F5; height: 60px; padding-top: 10px; border-bottom: 5px solid #10153E;}
 footer a { text-align: center;  font-size: 1.2rem; color: black; text-decoration: none;} 
 footer a:hover {color: black; opacity: .7;}
 
