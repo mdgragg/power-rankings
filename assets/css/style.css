@@ -50,6 +50,7 @@ h5 {padding: 10px 0px 0px 10px; margin-bottom: -5px; font-size: small;}
 .up {  border-bottom: 3px solid #25AF4B;}
 .down {  border-bottom: 3px solid #BF2428;}
 .up-down {position: absolute; top: 0; right: 0; width: 50px; border-radius: 0px 15px 0px 0px; }
+.up-down2 {position: absolute; top: 0; right: 55px; width: 50px; }
 
 .team-info {padding: 10px; line-height: normal; margin-bottom: 10px;}
 
