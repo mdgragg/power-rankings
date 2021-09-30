@@ -71,6 +71,7 @@ footer a:hover {color: black; opacity: .7;}
 @media only screen and (max-width: 768px) {
     .line-left {display: none;} .line-right {display: none;}
     .up-down {width: 25px; }
+    .up-down2 {width: 25px; right: 30px; }
     .team-name { font-size: 18px;}
     .write-up {font-size: 16px;}
   }
