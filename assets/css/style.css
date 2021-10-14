@@ -26,7 +26,7 @@ h1 {
     text-align: center; 
     text-transform: uppercase;
 }
-.week {text-align: center; font-size: 1.2rem; margin-top: -10px; }
+.week {text-align: center; font-size: 1.2rem; margin-top: -10px; padding: 0px 10px;}
 .week a {color: black;}
 .week a:hover {opacity: .7;}
 
